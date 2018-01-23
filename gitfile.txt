@@ -3,4 +3,10 @@ beer
 cheer
 pizza
 this is my first txt file to upload on gitHub.
-Albert
+Albert ngoudjou
+before
+after
+code
+bootcamp
+DotNet csharp
+ cool
