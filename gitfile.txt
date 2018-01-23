@@ -1,0 +1,6 @@
+sandwich
+beer
+cheer
+pizza
+this is my first txt file to upload on gitHub.
+Albert
